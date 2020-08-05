@@ -1,0 +1,13 @@
+{"properties": [{
+  "name": "texto.index.controller.listar.titulo",
+  "type": "java.lang.String",
+  "description": "A description for 'texto.index.controller.listar.titulo'"
+}]}{"properties": [{
+  "name": "texto.index.controller.perfil.titulo",
+  "type": "java.lang.String",
+  "description": "A description for 'texto.index.controller.perfil.titulo'"
+}]}{"properties": [{
+  "name": "texto.index.controller.index.titulo",
+  "type": "java.lang.String",
+  "description": "A description for 'texto.index.controller.index.titulo'"
+}]}
